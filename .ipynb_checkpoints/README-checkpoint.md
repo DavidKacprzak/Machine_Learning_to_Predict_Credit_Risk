@@ -79,10 +79,10 @@ Random Forest had the best average/total geometric mean score of 0.78.
 
 The top three features for the Balanced Random Forest Classifier were total_rec_prncp, total_pymnt, and total_pymnt_inv as seen in this chart of results:
 
-![Random Forest Features Importances](Resources/RandomForestTopFeatures.PNG)
+![Random Forest Features Importances](Resources/RandomForestFeatures.PNG)
 
 ##### AdaBoost
 
 The top three features for Easy Ensemble AdaBoost Classifier were total_rec_int, last_pymnt_amnt, and issue_d_Jan_2019 as seen in this chart of results:
 
-![AdaBoost Features Importances](Resources/AdaBoostTopFeatures.PNG)
+![AdaBoost Features Importances](Resources/AdaBoostFeatures.PNG)
